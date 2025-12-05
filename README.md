@@ -1,11 +1,12 @@
 <div align="center" width="100%">
-<img src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes"
+<img src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
+  <h1><a href="https://purecore.codes" target="_blank">PURECORE.CODES</h1>
 </div>
 
   
-Coleção de ferramentas em TS que criei para facilitar minha programação
 
-# Áreas de Interesse
+
+# Áreas de Pesquisa e Desenvolvimento
 
 ## UI/UX
 
