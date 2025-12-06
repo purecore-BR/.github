@@ -1,4 +1,4 @@
-
+L
 <div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
@@ -69,7 +69,7 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 * Coreografia 
 * sync/async
 
-
+* Self-driven systems
 
 ## Bancos de Dados
 
