@@ -1,3 +1,4 @@
+
 <div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
@@ -36,7 +37,17 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 * WhatsApp Chatbots
 * E-commerce Conversational 
 * Agents Web Conversationais
+* Análise Prosódica
 
+## Modelagem Comportamental 
+
+* BehaviorID
+* Estados Cognitivos 
+* Transições Cognitivas
+* Next Best Action
+
+
+## Cognitive AI
 
 
 ## Memória para IA 
