@@ -1,4 +1,5 @@
-<div align="center" width="100%">
+
+L<div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
   <h1><a style="color: red" href="https://purecore.codes" target="_blank">purecore.codes</h1>
@@ -29,6 +30,27 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 * Behavior Animations
 
 ## Natural Language Gateways 
+
+
+## Memória para IA 
+
+
+## Multi-Agents 
+
+* Reinforcement Learning 
+* Deep RL
+* Ensemble Learning 
+
+### Atomic Behavior Agents 
+
+### Arquiteturas
+
+### Comunicação 
+
+* Orquestração 
+* Coreografia 
+* sync/async
+
 
 
 ## Bancos de Dados
