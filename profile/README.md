@@ -1,5 +1,4 @@
-
-L<div align="center" width="100%">
+<div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
   <h1><a style="color: red" href="https://purecore.codes" target="_blank">purecore.codes</h1>
@@ -29,7 +28,15 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 * Theme Factory by config/preset 
 * Behavior Animations
 
-## Natural Language Gateways 
+## Natural Language 
+
+* CogGate - Cognitive Gateway para sistemas legados (projeto em desenvolvimento) 
+* NLToolFactory 
+* NLAgentConfig
+* WhatsApp Chatbots
+* E-commerce Conversational 
+* Agents Web Conversationais
+
 
 
 ## Memória para IA 
