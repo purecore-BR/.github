@@ -1,4 +1,4 @@
-L
+GL
 <div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
@@ -61,7 +61,13 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 
 ### Atomic Behavior Agents 
 
+
 ### Arquiteturas
+
+* Self-driven systems
+* Self-healing systems  
+* Agentic MCP driven development 
+* Aspect Async Multi-Agents Event-driven development 
 
 ### Comunicação 
 
@@ -69,8 +75,8 @@ Após notar que estava usando Agents no Front-end, Back-end, Banco de dados e In
 * Coreografia 
 * sync/async
 
-* Self-driven systems
 
+L 
 ## Bancos de Dados
 
 * Reactive EntityAgent Data Access Layer
