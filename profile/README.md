@@ -1,4 +1,3 @@
-GL
 <div align="center" width="100%">
 <img
  src="https://i.imgur.com/dR0wa6a.png" alt="purecore.codes" />
